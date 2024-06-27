@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "e696e250fc7a57aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0854f4b3462cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16ae5ce46af69433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eat/Гречка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a443dd6e999095f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bfb37fe4d47c9453",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "69b61029e7ba10bf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "eae1c30ad7619cdc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f0795b8595904d4b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4bf1b6c13819970b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "796e0d56cc10e2f2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Eat/Гречка.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c853778f5b539724",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Eat/Гречка.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ee58f7e47ff1886f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Eat/Гречка.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-file-cleaner:Clean files": false
+    }
+  },
+  "active": "16ae5ce46af69433",
+  "lastOpenFiles": [
+    "Eat/А!Меню.md",
+    "Eat/Фрикадельки с картошкой.md",
+    "Eat/Маринованный огурец.md",
+    "Eat/Гречневая каша с молоком.md",
+    "Eat/Гречка.md",
+    "Eat/Ачма.md",
+    "Eat/Фарш в рожках (Ира).md",
+    "Eat/Бейглы.md",
+    "Templates/Eat.md",
+    "Eat/Большой сырок с изюмом.md",
+    "Eat/Говядина с пюре.md",
+    "Templates",
+    "RPReplay_Final1718555080.mp4"
+  ]
+}

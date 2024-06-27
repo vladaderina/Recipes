@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "4cec234694bdf07d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41c7d62a62764b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d972caee96d11f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eat/Запечённый картофель.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4c3505fc6e25b74",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb4667dd95ec43f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4f1cd5b51e264b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "349466dd7bda3a91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c310e1240abaf401",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b1cf906f9e87694",
+    "type": "split",
+    "children": [
+      {
+        "id": "d64c70a2a1ebd19a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe50e2f551a2fc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eat/Запечённый картофель.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1530b15a36c3cad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eat/Запечённый картофель.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee2b001802b51fa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebe09a79e3c3091d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eat/Запечённый картофель.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-file-cleaner:Clean files": false
+    }
+  },
+  "active": "6d972caee96d11f1",
+  "lastOpenFiles": [
+    "Eat/Карамельно-абрикосовый пирог.md",
+    "Eat/Курица «кордон блю».md",
+    "Eat/Куриные ножки.md",
+    "Eat/Песто.md",
+    "Eat/Паста с креветками-курицей-рыбой.md",
+    "Eat/Оладьи.md",
+    "Eat/Макароны по-флотски.md",
+    "Eat/Пельмени.md",
+    "Eat/Запеченые яблоки с медом и корицей.md",
+    "Eat/Индейка в соусе карри.md",
+    "Eat/Карамельно-яблочные пончики.md",
+    "Eat/Гречка.md",
+    "Eat/Гнезда с фаршем.md",
+    "Eat/Чизкейк.md",
+    "Eat/А!Меню.md",
+    "Eat/Большой сырок с изюмом.md",
+    "Eat/Гречневая каша с молоком.md",
+    "Eat/Запечённый картофель.md",
+    "Eat/Фрикадельки с картошкой.md",
+    "Eat/Творог с бананом.md",
+    "Eat/Рулет с яйцом.md",
+    "Eat/Салат с крабовыми палочками.md",
+    "Eat/Бейглы.md",
+    "README.md",
+    "Eat/Говядина с пюре.md",
+    "Eat/Куриный бульон.md",
+    "Recipes",
+    "My",
+    "RPReplay_Final1718555080.mp4",
+    "Templates",
+    "Files/СВИДЕТЕЛЬСТВО о рождении.pdf",
+    "Files/Pasted image 20240510201150.png",
+    "Files/Pasted image 20240614131719.png",
+    "Files/Pasted image 20240616152533.png",
+    "Files/Свидетельство о смерти.pdf",
+    "Eat",
+    "Files/Pasted image 20240616170416.png",
+    "Files/Pasted image 20240616170134.png",
+    "Files/Pasted image 20240616165810.png",
+    "Files/Pasted image 20240616165217.png",
+    "Files/Pasted image 20240616164904.png",
+    "Files/Pasted image 20240616164542.png",
+    "Files/Pasted image 20240616164538.png",
+    "Files"
+  ]
+}
