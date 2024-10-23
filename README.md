@@ -1,2 +1,2 @@
 # Recipes
-Click on the recipe website
+[CLICK](https://vladaderina.github.io/Recipes/) to see website
