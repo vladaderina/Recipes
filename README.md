@@ -1,2 +1,2 @@
 # Recipes
-For Obsidian
+Click on the recipe website
