@@ -1,2 +1,1 @@
-# Recipes
-[CLICK](https://vladaderina.github.io/Recipes/) to see website
+Recipes in .md format for obsidian
